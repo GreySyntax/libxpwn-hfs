@@ -1,0 +1,7 @@
+What is this?
+*************************
+xpwn-hfs is a section of xpwn (by planetbeing, et al - https://github.com/planetbeing/xpwn) using for manipulating DMG images using the HFS filesystem.
+
+Why?
+*************************
+Easier to reuse in other projects
